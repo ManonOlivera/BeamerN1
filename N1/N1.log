@@ -1,18 +1,15 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.7.30)  14 AUG 2023 18:48
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.4)  15 AUG 2023 20:09
  restricted system commands enabled.
-**N1.tex
-(./N1.tex
+ file:line:error style messages enabled.
+**/media/hpi7/DONNEES/CollegeBeamerManon/BeamerN1/N1/N1.tex
+(/media/hpi7/DONNEES/CollegeBeamerManon/BeamerN1/N1/N1.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-03>
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
-ollection.
-luaotfload | conf : Root cache directory is "/Users/manonbenard/Library/texlive/
-2023/texmf-var/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "/usr/local/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-
-2022-10-03.lua".
+Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/home/hpi7/.texlive2023/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-resolved path "/usr/local/texlive/2023/texmf-dist/tex/luatex/luaotfload/fontloader-2022-10-03.lua".
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.120
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -20,8 +17,7 @@ Inserting `luaotfload.node_processor' in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' in `define_font'.
 Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "/Users/manonbenard/Library/texlive/
-2023/texmf-var/luatex-cache/generic/names".
+luaotfload | conf : Root cache directory is "/home/hpi7/.texlive2023/texmf-var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
 Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
@@ -39,13 +35,11 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/202
-3/texmf-dist/tex/latex/base/report.cls
+Inserting `tracingstacklevels' in `input_level_string'. (/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from /Users/manonbenard/Library/tex
-live/2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+luaotfload | db : Font names database loaded from /home/hpi7/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \c@part=\count183
 \c@chapter=\count184
 \c@section=\count185
@@ -58,9 +52,7 @@ live/2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen139
-)
-(../preambule.tex
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+) (../preambule.tex (/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
@@ -70,8 +62,7 @@ Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/07/15 v3.92 The Babel package
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
@@ -166,11 +157,9 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \babel@savecnt=\count192
 \U@D=\dimen140
 \l@unhyphenated=\language88
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel-french/french.ldf
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2023/03/08 v3.5q French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language30). Reported on input line 91.
@@ -202,48 +191,32 @@ Inserting `frenchb.french_punctuation' in `kerning'.
 \leftmarginFB=\dimen147
 \parindentFFN=\dimen148
 \FBfnindent=\dimen149
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.
-tex UTF-8 French hyphenation patterns
-(/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.
-tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-q
-uote-fr.tex))))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/fr/babel-french.te
-x
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-fr.tex UTF-8 French hyphenation patterns (/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-fr.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-fr.tex)))) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
 Package babel Info: Importing font and identification data for french
 (babel)             from babel-fr.ini. Reported on input line 11.
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/carlisle/scalefnt.sty)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-2.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen150
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count266
@@ -293,19 +266,16 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/lmodern.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -339,14 +309,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count278
@@ -361,56 +328,39 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen165
 \Gm@layoutvoffset=\dimen166
 \Gm@dimlist=\toks26
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2023/06/19 version 6.0.4 text color boxes
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks27
 \pgfutil@tempdima=\dimen167
 \pgfutil@tempdimb=\dimen168
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box53
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/luatex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/luatex.def
 File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 ))
 \Gin@req@height=\dimen169
 \Gin@req@width=\dimen170
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks28
 \pgfkeys@temptoks=\toks29
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
-tered.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks30
 ))
 \pgf@x=\dimen171
@@ -433,38 +383,27 @@ tered.code.tex
 \t@pgf@tokb=\toks32
 \t@pgf@tokc=\toks33
 \pgf@sys@id@count=\count285
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-luatex.def
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.d
-ef
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
 File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count286
 \pgfsyssoftpath@bigbuffer@items=\count287
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 227.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -474,43 +413,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen181
 \pgfmath@count=\count288
 \pgfmath@box=\box54
 \pgfmath@toks=\toks34
 \pgfmath@stack@operand=\toks35
 \pgfmath@stack@operation=\toks36
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count289
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen182
 \pgf@picmaxx=\dimen183
@@ -526,119 +440,76 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen193
 \pgf@zx=\dimen194
 \pgf@zy=\dimen195
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen196
 \pgf@path@lasty=\dimen197
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen198
 \pgf@shorten@start@additional=\dimen199
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box55
 \pgf@hbox=\box56
 \pgf@layerbox@main=\box57
 \pgf@picture@serial@count=\count290
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen256
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen257
 \pgf@pt@y=\dimen258
 \pgf@pt@temp=\dimen259
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen260
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen261
 \pgf@sys@shading@range@num=\count291
 \pgf@shadingcount=\count292
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box58
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box59
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen262
 \pgf@nodesepend=\dimen263
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks37
 \verbatim@line=\toks38
 \verbatim@in@stream=\read4
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count293
 )
@@ -653,28 +524,17 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box65
 \tcb@temp=\box66
 \tcb@temp=\box67
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.0.4'
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
- (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen264
 \pgffor@skip=\dimen265
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
-))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count297
 \pgfplotmarksize=\dimen266
@@ -695,32 +555,23 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count299
 \tikznumberofcurrentchild=\count300
 \tikz@fig@count=\count301
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count302
 \pgfmatrixcurrentcolumn=\count303
 \pgf@matrix@numberofcolumns=\count304
 )
 \tikz@expandcount=\count305
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
-Package: tikzfill.image 2022/07/20 v1.0.0 Image filling library for TikZ
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
-Package: tikzfill-common 2022/07/20 v1.0.0 Auxiliary code for tikzfill
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.co
-de.tex
-File: tikzlibraryfill.image.code.tex 2022/07/20 v1.0.0 Image filling library
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
 \l__tikzfill_img_box=\box72
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.0.4'
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
 Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.4'
@@ -728,40 +579,20 @@ Library (tcolorbox): 'tcbtheorems.code.tex' version '6.0.4'
 Library (tcolorbox): 'tcbbreakable.code.tex' version '6.0.4'
 (/usr/local/texlive/2023/texmf-dist/tex/latex/pdfcol/pdfcol.sty
 Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 ))
 Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 \tcb@testbox=\box73
 \tcb@totalupperbox=\box74
 \tcb@totallowerbox=\box75
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2023-07-26 v3.2.9 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen275
-\l__siunitx_angle_marker_box=\box76
-\l__siunitx_angle_unit_box=\box77
-\l__siunitx_compound_count_int=\count306
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks41
-))
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2023-08-03 v3.3.2 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count306
 \l__siunitx_number_exponent_fixed_int=\count307
 \l__siunitx_number_min_decimal_int=\count308
 \l__siunitx_number_min_integer_int=\count309
@@ -771,6 +602,19 @@ Package pdftexcmds Info: \pdfdraftmode found.
 \l__siunitx_number_group_first_int=\count313
 \l__siunitx_number_group_size_int=\count314
 \l__siunitx_number_group_minimum_int=\count315
+\l__siunitx_angle_tmp_dim=\dimen275
+\l__siunitx_angle_marker_box=\box76
+\l__siunitx_angle_unit_box=\box77
+\l__siunitx_compound_count_int=\count316
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks41
+))
 \l__siunitx_table_tmp_box=\box78
 \l__siunitx_table_tmp_dim=\dimen276
 \l__siunitx_table_column_width_dim=\dimen277
@@ -781,11 +625,10 @@ Package pdftexcmds Info: \pdfdraftmode found.
 \l__siunitx_table_after_box=\box83
 \l__siunitx_table_before_dim=\dimen278
 \l__siunitx_table_carry_dim=\dimen279
-\l__siunitx_unit_tmp_int=\count316
-\l__siunitx_unit_position_int=\count317
-\l__siunitx_unit_total_int=\count318
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+\l__siunitx_unit_tmp_int=\count317
+\l__siunitx_unit_position_int=\count318
+\l__siunitx_unit_total_int=\count319
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen280
 \ar@mcellbox=\box84
@@ -794,39 +637,30 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip53
 \backup@length=\skip54
 \ar@cellbox=\box85
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pstricks-add/pstricks-add.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pstricks/pstricks.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/pstricks-add/pstricks-add.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pstricks/pstricks.sty
 Package: pstricks 2022/19/23 v0.72 LaTeX wrapper for `PSTricks' (RN,HV)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks43
 \XKV@tempa@toks=\toks44
 )
-\XKV@depth=\count319
+\XKV@depth=\count320
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex
-`pst-fp' v0.06, 2020/11/20 (hv)
-\pstFP@xs=\count320
-\pstFP@xia=\count321
-\pstFP@xib=\count322
-\pstFP@xfa=\count323
-\pstFP@xfb=\count324
-\pstFP@rega=\count325
-\pstFP@regb=\count326
-\pstFP@regs=\count327
-\pstFP@times=\count328
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count321
+\pstFP@xia=\count322
+\pstFP@xib=\count323
+\pstFP@xfa=\count324
+\pstFP@xfb=\count325
+\pstFP@rega=\count326
+\pstFP@regb=\count327
+\pstFP@regs=\count328
+\pstFP@times=\count329
 )
-\psLoopIndex=\count329
+\psLoopIndex=\count330
 
 `PSTricks' v3.19  <2023/04/30> (tvz,hv)
 \pst@dima=\dimen282
@@ -842,39 +676,36 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \pst@hbox=\box86
 \pst@ibox=\box87
 \pst@boxg=\box88
-\pst@cnta=\count330
-\pst@cntb=\count331
-\pst@cntc=\count332
-\pst@cntd=\count333
-\pst@cntg=\count334
-\pst@cnth=\count335
-\pst@cntm=\count336
-\pst@cntn=\count337
-\pst@cnto=\count338
-\pst@cntp=\count339
-\@zero=\count340
+\pst@cnta=\count331
+\pst@cntb=\count332
+\pst@cntc=\count333
+\pst@cntd=\count334
+\pst@cntg=\count335
+\pst@cnth=\count336
+\pst@cntm=\count337
+\pst@cntn=\count338
+\pst@cnto=\count339
+\pst@cntp=\count340
+\@zero=\count341
 \pst@toks=\toks45
 --- We are running lualatex with luapstricks ---
 Lua module: luapstricks 2023-05-23 v0.10 PSTricks backend for LuaLaTeX
 Lua function luaPST = 25
 Lua function luaPSTcolor = 26
-Lua function luaPSTbox = 27 (/usr/local/texlive/2023/texmf-dist/tex/generic/pst
-ricks/pstricks-color.tex)
+Lua function luaPSTbox = 27 (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
 \psunit=\dimen292
 \psxunit=\dimen293
 \psyunit=\dimen294
-\pst@C@@rType=\count341
+\pst@C@@rType=\count342
 \pslinewidth=\dimen295
 \psk@startLW=\dimen296
 \psk@endLW=\dimen297
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
 \pshooklength=\dimen298
 \pshookwidth=\dimen299
 )
 \pst@customdefs=\toks46
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
 \pslinearc=\dimen300
 \pst@symbolStep=\dimen301
 \pst@symbolWidth=\dimen302
@@ -885,73 +716,52 @@ ricks/pstricks-color.tex)
 \sh@wgridXunit=\dimen306
 \sh@wgridYunit=\dimen307
 \pst@shift=\dimen308
-\ps@imagectr=\count342
+\ps@imagectr=\count343
 )
 File: pstricks.tex 2023/04/30 v3.19 `PSTricks' (tvz,hv)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex
-`pst-fp' v0.06, 2020/11/20 (hv))
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
 File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-plot/pst-plot.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-plot/pst-plot.sty
 Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/pst-xkey.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/pst-xkey.sty
 Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/multido/multido.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/multido/multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
-
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/multido/multido.tex
- v1.42, 2010/05/14 <tvz>
-\multido@count=\count343
-\multidocount=\count344
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/multido/multido.tex  v1.42, 2010/05/14 <tvz>
+\multido@count=\count344
+\multidocount=\count345
 \multido@stuff=\toks48
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
 Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-plot/pst-plot.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-tools/pst-tools.tex
-`PST-tools' v0.12, 2021/09/23 (hv)
-\randomi=\count345
-\ranval=\count346
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-node/pst-node.tex
- v1.43, 2022/01/31
-\psrow=\count347
-\pscol=\count348
-\psmatrixcnt=\count349
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-plot/pst-plot.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-tools/pst-tools.tex `PST-tools' v0.12, 2021/09/23 (hv)
+\randomi=\count346
+\ranval=\count347
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-node/pst-node.tex  v1.43, 2022/01/31
+\psrow=\count348
+\pscol=\count349
+\psmatrixcnt=\count350
 \psrowsep=\skip55
 \pscolsep=\skip56
-\pst@args=\count350
-\num@pts=\count351
-\pst@argcnt=\count352
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex
-`pst-arrow' v0.05, 2021/11/16 (dr,hv))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-3d/pst-3d.tex
-`PST-3d' v1.11, 2010/02/14 (tvz))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-math/pst-math.tex
-`pst-math' v0.67 , (CJ,hv)) `pstricks-add' v3.94, 2023/04/17 (dr,hv)
+\pst@args=\count351
+\num@pts=\count352
+\pst@argcnt=\count353
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex `pst-arrow' v0.05, 2021/11/16 (dr,hv)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-3d/pst-3d.tex `PST-3d' v1.11, 2010/02/14 (tvz)) (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-math/pst-math.tex `pst-math' v0.67 , (CJ,hv)) `pstricks-add' v3.94, 2023/04/17 (dr,hv)
 \psparallelogramsep=\dimen309
-\pst@cntC=\count353
-\pst@stepcount=\count354
+\pst@cntC=\count354
+\pst@stepcount=\count355
 \chart@ColorIndex=\dimen310
 \chart@ColorStep=\dimen311
 \pst@chartHeight=\dimen312
 \pst@chartStackDepth=\dimen313
 \pst@chartStackWidth=\dimen314
-\chart@Toggle=\count355
-\psVectorCtr=\count356
-)
- v1.94, 2022/11/21 (tvz,hv)
+\chart@Toggle=\count356
+\psVectorCtr=\count357
+)  v1.94, 2022/11/21 (tvz,hv)
 \pstRadUnit=\dimen315
 \pstRadUnitInv=\dimen316
-\pst@linecnt=\count357
+\pst@linecnt=\count358
 \RCD@file=\read5
 \psxlabelsep=\dimen317
 \psylabelsep=\dimen318
@@ -962,7 +772,7 @@ Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
 \pst@yticksizeA=\dimen323
 \pst@yticksizeB=\dimen324
 \pst@yticksizeC=\dimen325
-\@digitcounter=\count358
+\@digitcounter=\count359
 \psk@llx=\dimen326
 \psk@lly=\dimen327
 \psk@urx=\dimen328
@@ -971,141 +781,106 @@ Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
 \pst@yunit=\dimen331
 )
 File: pst-plot.tex 2022/11/21 1.94 `pst-plot' (tvz,hv)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-node/pst-node.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-node/pst-node.sty
 Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
 Package: pst-node 2010/04/22 package wrapper for pst-node.tex
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-node/pst-node.tex)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-node/pst-node.tex)
 File: pst-node.tex 2022/11/21 1.94 `pst-node' (tvz,hv)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-3d/pst-3d.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-3d/pst-3d.sty
 Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-3d/pst-3d.tex)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-3d/pst-3d.tex)
 File: pst-3d.tex 2022/11/21 v1.94 `PST-3d' (hv)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-math/pst-math.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-math/pst-math.sty
 Package: pst-math 2023/07/03 v 0.67 package wrapper for PSTricks pst-math.tex
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-calculate/pst-calculate.sty
-Package: pst-calculate 2019/01/24 v. 0.02(Herbert Voss) Support for caculations
- with floating point numbers.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-06-30 L3 programming layer (loader) 
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-calculate/pst-calculate.sty
+Package: pst-calculate 2019/01/24 v. 0.02(Herbert Voss) Support for caculations with floating point numbers.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-08-03 L3 programming layer (loader) 
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2023-04-19 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count359
+\l__color_backend_stack_int=\count360
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box89
 ))
 Package: xparse 2023-02-02 L3 Experimental document command parser
-)) (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count360
-\decimalpart=\count361
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count361
+\decimalpart=\count362
 )
 Package: xstring 2023/01/14 v1.85 String manipulations (CT)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-math/pst-math.tex)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-math/pst-math.tex)
 File: pst-math.tex 2022/11/21 v1.94 `PST-math' (hv)
-\c@Rand@No=\count362
-\c@Random@Left=\count363
-\c@Random@Right=\count364
-\c@Random@No@max=\count365
+\c@Rand@No=\count363
+\c@Random@Left=\count364
+\c@Random@Right=\count365
+\c@Random@No@max=\count366
 )
-Package: pstricks-add 2021/09/10 v. 0.17 package wrapper for pstricks-add.tex (
-hv)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex)
+Package: pstricks-add 2021/09/10 v. 0.17 package wrapper for pstricks-add.tex (hv)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex)
 File: pstricks-add.tex 2022/11/21 v1.94 `PSTricks-add' (hv)
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-eucl/pst-eucl.sty
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pst-tools/pst-tools.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-eucl/pst-eucl.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pst-tools/pst-tools.sty
 Package: pst-tools 2012/01/01 package wrapper for pst-tools.tex (hv)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-tools/pst-tools.tex)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-tools/pst-tools.tex)
 File: pst-tools.tex 2022/11/21 v1.94 `PST-tools' (hv)
 )
 Package: pst-eucl 2020/09/29 package wrapper for PSTricks pst-eucl.tex
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-eucl/pst-eucl.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex)
-`PST-Euclide v1.77, 2023/04/15 (dr,hv)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-eucl/pst-eucl.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex) `PST-Euclide v1.77, 2023/04/15 (dr,hv)
 \psMarkHashLength=\dimen332
 \psMarkHashSep=\dimen333
 )
 File: pst-eucl.tex 2023/04/15 v1.77 `PST-eucl' (dr,hv)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen334
 \TX@old@table=\dimen335
 \TX@old@col=\dimen336
 \TX@target=\dimen337
 \TX@delta=\dimen338
-\TX@cols=\count366
+\TX@cols=\count367
 \TX@ftn=\toks49
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip57
 \enit@outerparindent=\dimen339
 \enit@toks=\toks50
 \enit@inbox=\box90
-\enit@count@id=\count367
-\enitdp@description=\count368
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+\enit@count@id=\count368
+\enitdp@description=\count369
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count369
+\c@section@level=\count370
 )
 \@linkdim=\dimen340
-\Hy@linkcounter=\count370
-\Hy@pagecounter=\count371
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+\Hy@linkcounter=\count371
+\Hy@pagecounter=\count372
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count372
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+\Hy@SavedSpaceFactor=\count373
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4167.
@@ -1115,23 +890,19 @@ Package hyperref Info: Plain pages OFF on input line 4182.
 Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count373
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\c@Hy@tempcnt=\count374
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen341
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count374
+\Fld@menulength=\count375
 \Field@Width=\dimen342
 \Fld@charsize=\dimen343
 Package hyperref Info: Hyper figures OFF on input line 6051.
@@ -1141,57 +912,47 @@ Package hyperref Info: backreferencing OFF on input line 6066.
 Package hyperref Info: Link coloring OFF on input line 6071.
 Package hyperref Info: Link coloring with OCG OFF on input line 6076.
 Package hyperref Info: PDF/A mode OFF on input line 6081.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count375
-\c@Item=\count376
-\c@Hfootnote=\count377
+\Hy@abspage=\count376
+\c@Item=\count377
+\c@Hfootnote=\count378
 )
 Package hyperref Info: Driver (autodetected): hluatex.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hluatex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2023-07-08 v7.01b Hyperref driver for luaTeX
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count378
-\c@bookmark@seq@number=\count379
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+\Fld@listcount=\count379
+\c@bookmark@seq@number=\count380
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip58
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box91
-\sift@deathcycles=\count380
+\sift@deathcycles=\count381
 \@vwid@loff=\dimen344
 \@vwid@roff=\dimen345
 )
-\c@tcb@cnt@defi=\count381
-\c@tcb@cnt@exemple=\count382
-\c@tcb@cnt@remarque=\count383
-\c@tcb@cnt@prop=\count384
-\c@tcb@cnt@notation=\count385
-\c@tcb@cnt@exercice=\count386
-)
-(./N1.aux)
+\c@tcb@cnt@defi=\count382
+\c@tcb@cnt@exemple=\count383
+\c@tcb@cnt@remarque=\count384
+\c@tcb@cnt@prop=\count385
+\c@tcb@cnt@notation=\count386
+\c@tcb@cnt@exercice=\count387
+) (./N1.aux)
 \openout1 = N1.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -1203,8 +964,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -1264,61 +1024,46 @@ LaTeX Info: Redefining \up on input line 4.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count387
+\scratchcounter=\count388
 \scratchdimen=\dimen346
 \scratchbox=\box92
-\nofMPsegments=\count388
-\nofMParguments=\count389
+\nofMPsegments=\count389
+\nofMParguments=\count390
 \everyMPshowfont=\toks51
-\MPscratchCnt=\count390
+\MPscratchCnt=\count391
 \MPscratchDim=\dimen347
-\MPnumerator=\count391
-\makeMPintoPDFobject=\count392
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
 \everyMPtoPDFconversion=\toks52
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-d
-ictionary-french.trsl
-File: translations-basic-dictionary-french.trsl (french translation file `trans
-lations-basic-dictionary')
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-french.trsl
+File: translations-basic-dictionary-french.trsl (french translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 4.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `french'. on input line 4.
 Package hyperref Info: Link coloring OFF on input line 4.
  (./N1.out) (./N1.out)
 \@outlinefile=\write4
 
 \openout4 = N1.out
  (./atomes/N1_cours001.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
-.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
-.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-6.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 6.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-6.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 6.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1328,58 +1073,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 6.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-(./atomes/N1_cours002.tex) (./atomes/N1_cours003.tex) (./atomes/N1_cours004.tex
-) (./atomes/N1_cours005.tex [1
+)) (./atomes/N1_cours002.tex) (./atomes/N1_cours003.tex) (./atomes/N1_cours004.tex) (./atomes/N1_cours005.tex [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./ato
-mes/N1_cours007.tex) (./atomes/N1_cours008.tex
-[2
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.]) (./atomes/N1_cours009.tex) [3]
-warning  (pdf backend): ignoring duplicate destination with the name 'section.0.
-1'
-(./atomes/N1_exo001.tex) (./atomes/N1_exo002.tex) (./atomes/N1_exo003.tex)
-(./atomes/N1_exo004.tex) (./atomes/N1_exo005.tex) (./atomes/N1_exo006.tex)
-(./atomes/N1_exo007.tex) [4]
-warning  (pdf backend): ignoring duplicate destination with the name 'section.0.
-2'
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./atomes/N1_cours007.tex) (./atomes/N1_cours008.tex [2
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.]) (./atomes/N1_cours009.tex) [3]
+warning  (pdf backend): ignoring duplicate destination with the name 'section.0.1'
+(./atomes/N1_exo001.tex) (./atomes/N1_exo002.tex) (./atomes/N1_exo003.tex) (./atomes/N1_exo004.tex) (./atomes/N1_exo005.tex) (./atomes/N1_exo006.tex) (./atomes/N1_exo007.tex) [4]
+warning  (pdf backend): ignoring duplicate destination with the name 'section.0.2'
 (./atomes/N1_exo008.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 8.
@@ -1391,205 +1111,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
  []
 
 ) (./atomes/N1_exo009.tex)
-warning  (pdf backend): ignoring duplicate destination with the name 'section.0.
-3'
-(./atomes/N1_exo010.tex) (./atomes/N1_exo011.tex) (./atomes/N1_exo012.tex)
-[5
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-luaotfload | cache : Lookup cache loaded from /Users/manonbenard/Library/texlive
-/2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.
-Extended graphic state modifications dropped since `pdfmanagement-testphase' is 
-not loaded.] [6] (./N1.aux)
+warning  (pdf backend): ignoring duplicate destination with the name 'section.0.3'
+(./atomes/N1_exo010.tex) (./atomes/N1_exo011.tex) (./atomes/N1_exo012.tex) [5
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+luaotfload | cache : Lookup cache loaded from /home/hpi7/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.
+Extended graphic state modifications dropped since `pdfmanagement-testphase' is not loaded.] [6] (./N1.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-03>
  ***********
 Package rerunfilecheck Info: File `N1.out' has not changed.
-(rerunfilecheck)             Checksum: CC20A621324F18FDB889E4443CAC1546;1036.
+(rerunfilecheck)             Checksum: 7AEBD19AB20DEC2B92504B8151527DE4;1041.
 )
 
 Here is how much of LuaTeX's memory you used:
- 37137 strings out of 477545
+ 37250 strings out of 477513
  156285,1977958 words of node,token memory allocated
  1480 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 59 glue, 4 kern, 1 penalty, 2 glyph, 250 attribute,
- 57 glue_spec, 37 attribute_list, 2 write nodes
-   avail lists: 1:1,2:18020,3:2653,4:574,5:528,6:136,7:8925,8:45,9:1871,10:5,11:
-313
- 57050 multiletter control sequences out of 65536+600000
+   7 hlist, 2 vlist, 2 rule, 59 glue, 4 kern, 1 penalty, 2 glyph, 250 attribute, 57 glue_spec, 37 attribute_list, 2 write nodes
+   avail lists: 1:2,2:18020,3:2653,4:574,5:528,6:136,7:8928,8:45,9:1871,10:5,11:313
+ 57194 multiletter control sequences out of 65536+600000
  50 fonts using 3027263 bytes
- 114i,11n,118p,681b,1414s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/local
-/texlive/2023/texmf-dist/fonts/opentype/public/luapstricks/PSTricksDotFont.otf>{
-/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texl
-ive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-
-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2023/texmf-dist/fonts/
-type1/public/lm/lmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2023/texmf-d
-ist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on N1.pdf (6 pages, 149453 bytes).
+ 114i,11n,118p,732b,1414s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/local/texlive/2023/texmf-dist/fonts/opentype/public/luapstricks/PSTricksDotFont.otf>{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on N1.pdf (6 pages, 149456 bytes).
 
 PDF statistics: 156 PDF objects out of 1000 (max. 8388607)
  135 compressed objects within 2 object streams
