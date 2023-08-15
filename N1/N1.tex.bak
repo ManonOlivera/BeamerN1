@@ -1,0 +1,99 @@
+\documentclass[10pt,a4paper]{report}
+\input{../preambule}
+
+\begin{document}
+
+\hrulefill
+\vspace{3mm}
+\begin{center}
+{\Huge \textbf{Chapitre N1 - Nombres entiers}}
+\end{center}
+\hrulefill
+
+\section{Écrire des nombres entiers}
+
+\input{atomes/N1_cours001}
+\input{atomes/N1_cours002}
+\input{atomes/N1_cours003}
+\vspace{2mm}
+\input{atomes/N1_cours004}
+\input{atomes/N1_cours005}
+
+\section{La règle graduée}
+
+\begin{defi*}{}{}
+Pour graduer une droite, il faut choisir :
+\begin{itemize}[label=$-$]
+	\item une {\bf origine} qui correspond au \og 0 \fg{},
+	\item une {\bf unité} qui sera reportée de manière régulière,
+	\item un {\bf sens croissant}.
+\end{itemize}
+Un point est repéré par son {\bf abscisse}. A a pour abscisse 3 se note A(3). \\
+\begin{pspicture}(-2,-1)(5.5,1)
+   \psset{xunit=2}
+      \psaxes[yAxis=false]{->}(0,0)(5.2,1)
+      \psline[linecolor=violet]{<-}(-0.02,0.04)(-0.3,0.5)
+      \rput(-0.6,0.5){\textcolor{violet}{origine}}
+      \psline[linecolor=blue]{<->}(0,0.3)(1,0.3)
+      \rput(0.5,0.6){\textcolor{blue}{unité}}
+      \rput(3,0.4){\textcolor{red}{A}}
+      \psline[linecolor=red]{<-}(3.02,0.04)(3.3,0.5)
+      \rput(4.1,0.5){\textcolor{red}{l'abscisse de A est 3}}
+      \psline[linecolor=orange]{<-}(5.2,0)(5.5,0.5)
+      \rput(5.9,0.8){\textcolor{orange}{sens croissant}}
+   \end{pspicture}   
+\end{defi*}
+
+\begin{exemple*}{}{}
+\begin{center}
+\begin{pspicture}(0,-0.5)(10.5,0.5)
+      \psaxes[yAxis=false,labels=none]{->}(0,0)(10.5,0)
+      \rput(0,-0.4){0}
+      \rput(1,-0.4){100}
+      \rput(3,0.4){A}
+      \rput(7,0.4){R}
+      \rput(10,0.4){C}
+   \end{pspicture}
+\end{center}
+Ici, l'unité vaut 100, donc les points A, R et C ont pour abscisses 300; 700 et \num{1000}. On note  A(300), R(700) et C(\num{1000}).
+\end{exemple*}
+
+\section{Ordonner des nombres entiers}
+
+\input{atomes/N1_cours007}
+\input{atomes/N1_cours008}
+\input{atomes/N1_cours009}
+
+\newpage
+
+\setcounter{section}{0}
+
+\hrulefill
+\vspace{3mm}
+\begin{center}
+{\Huge \textbf{Chapitre N1 - Exercices}}
+\end{center}
+\hrulefill
+
+\section{Écrire des nombres entiers}
+
+\input{atomes/N1_exo001}
+\input{atomes/N1_exo002}
+\input{atomes/N1_exo003}
+\input{atomes/N1_exo004}
+\input{atomes/N1_exo005}
+\input{atomes/N1_exo006}
+\input{atomes/N1_exo007}
+
+\section{La règle graduée}
+
+\input{atomes/N1_exo008}
+\input{atomes/N1_exo009}
+
+\section{Ordonner des nombres entiers}
+
+\input{atomes/N1_exo010}
+\input{atomes/N1_exo011}
+\input{atomes/N1_exo012}
+
+\end{document}

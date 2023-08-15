@@ -1,0 +1,156 @@
+\usetheme{Malmoe}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\author{Manon OLIVERA}
+%\usecolortheme[named={white}]{structure}
+\setbeamercolor{structure}{fg=blue!40!white,bg=white}
+%\setbeamercovered{transparent} 
+%\setbeamertemplate{navigation symbols}{} 
+%\logo{} 
+%\institute{} 
+%\date{} 
+%\subject{}
+
+\usepackage[skins,theorems,breakable]{tcolorbox}
+\usepackage{fontawesome5}
+\usepackage{siunitx}
+\usepackage{pstricks-add}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{varwidth}
+
+\setbeamertemplate{navigation symbols}{%
+%\insertslidenavigationsymbol
+%\insertframenavigationsymbol
+%\insertsubsectionnavigationsymbol
+%\insertsectionnavigationsymbol
+%\insertdocnavigationsymbol
+%\insertbackfindforwardnavigationsymbol
+}
+
+\newtcbtheorem{defi}{Définition\,}{
+theorem style = plain, 
+%oversize,
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm, 
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm,
+coltitle=black!50!blue,
+colback=blue!5, 
+colframe=blue!5,
+terminator sign dash, 
+fonttitle=\bfseries}{df}
+
+\newtcbtheorem{exemple}{Exemple\,}{
+theorem style = plain, 
+%oversize,
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm,
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm, 
+coltitle=black,
+colback=white, 
+colframe=white,
+terminator sign dash, 
+fonttitle=\bfseries}{ex}
+
+\newtcbtheorem{remarque}{Remarque\,}{
+theorem style = plain, 
+%oversize,
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm,
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm, 
+coltitle=black,
+colback=white, 
+colframe=white,
+terminator sign dash, 
+fonttitle=\bfseries}{rq}
+
+\newtcbtheorem{prop}{Propriété\,}{
+theorem style = plain, 
+%oversize,
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm, 
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm,
+coltitle=black!50!orange,
+colback=orange!5, 
+colframe=orange!5,
+terminator sign dash, 
+fonttitle=\bfseries}{ppt}	
+
+\newtcbtheorem{notation}{Notation\,}{
+theorem style = plain, 
+%oversize,
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm,
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm, 
+coltitle=black,
+colback=white, 
+colframe=white,
+terminator sign dash, 
+fonttitle=\bfseries}{not}
+
+\newtcbtheorem{exercice}{Exercice}{
+enhanced, 
+breakable,
+before skip = 2mm, 
+after skip = 2mm,
+top = 1mm,
+left = 1mm,
+right = 1mm,
+bottom = 1mm, 
+coltitle=white,
+colbacktitle=black,
+colback=white, 
+colframe=black,
+boxrule=0.3mm,
+terminator sign none, 
+fonttitle=\bfseries,
+attach boxed title to top left={xshift=1cm,yshift*=1mm-\tcboxedtitleheight},
+varwidth boxed title*=-3cm,
+boxed title style={frame code={
+            \path[fill=tcbcolback!30!black]
+              ([yshift=-1mm,xshift=-1mm]frame.north west)
+                arc[start angle=0,end angle=180,radius=1mm]
+              ([yshift=-1mm,xshift=1mm]frame.north east)
+                arc[start angle=180,end angle=0,radius=1mm];
+            \path[left color=tcbcolback!60!black,right color=tcbcolback!60!black,
+              middle color=tcbcolback!80!black]
+              ([xshift=-2mm]frame.north west) -- ([xshift=2mm]frame.north east)
+              [rounded corners=1mm]-- ([xshift=1mm,yshift=-1mm]frame.north east)
+              -- (frame.south east) -- (frame.south west)
+              -- ([xshift=-1mm,yshift=-1mm]frame.north west)
+              [sharp corners]-- cycle;
+            },interior engine=empty,
+          }}{exo}

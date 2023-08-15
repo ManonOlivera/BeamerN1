@@ -1,0 +1,13 @@
+\begin{defi*}{}{}
+\begin{itemize}[label=$-$]
+	\item Ranger des nombres dans l'ordre {\bf croissant} signifie les ranger du plus petit au plus grand.
+	\item Ranger des nombres dans l'ordre {\bf décroissant} signifie les ranger du plus grand au plus petit.
+\end{itemize}
+\end{defi*}
+
+\begin{exemple*}{}{}
+\begin{itemize}[label=$-$]
+	\item $\num{1000045}<\num{1000085}<\num{1000600}<\num{1000607}$ sont rangés dans l'ordre croissant.
+	\item $321>312>231>213>132>123$ sont rangés dans l'ordre décroissant.
+	\end{itemize}
+\end{exemple*}
